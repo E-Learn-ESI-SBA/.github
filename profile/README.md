@@ -18,11 +18,11 @@ To build a vibrant community of learners, educators, and industry professionals 
 - Project Sponsor: ESI-SBA
 - Project Team:
     - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)
-    - [Omrani Rabah](https://github.com/RabehOmrani)
     - [Fendi Mohamed](https://github.com/fendiMohamed)
     - [Maroc Fouad](https://github.com/fouadhakim18)
     - [Hanaia youcef](https://github.com/poysa213)
     - [Hanachi seif](https://github.com/HANNACHI-Seif)
+    - [Omrani Rabah](https://github.com/RabehOmrani)
 - End Users: Students, educators, professionals from ESI-SBA, and enthusiasts in the computer science community.
 
 ### Technologies Used:
