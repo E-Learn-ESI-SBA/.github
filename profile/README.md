@@ -55,13 +55,12 @@ To build a vibrant community of learners, educators, and industry professionals 
 
 ### Project Team:
 
-- Project Manager:Ayoub Ameri
-
+- Project Manager:Ameri Mohamed Ayoub
+- Cloud & Infra: Ameri Mohamed Ayoub 
 - Developers: All members.
-
 - Designers: Maroc Hakim
+- Documentation: Ameri Mohamed Ayoub.
 
-- Content Creators: Omrani Rabah
 
 ### Project Documentation:
 
