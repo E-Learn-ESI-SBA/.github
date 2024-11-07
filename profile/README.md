@@ -16,7 +16,13 @@ To build a vibrant community of learners, educators, and industry professionals 
 ### Stakeholders:
 
 - Project Sponsor: ESI-SBA
-- Project Team: Ameri Ayoub , Omrani Rabah , Fendi Mohamed , Maroc Fouad , Hanaia youcef, Hanachi seif. 
+- Project Team:
+    - Ameri Mohamed Ayoub @MuhamedAyoub
+    - Omrani Rabah @RabehOmrani
+    - Fendi Mohamed @fendiMohamed/
+    - Maroc Fouad @fouadhakim18
+    - Hanaia youcef @poysa213
+    - Hanachi seif @HANNACHI-Seif
 - End Users: Students, educators, professionals from ESI-SBA, and enthusiasts in the computer science community.
 
 ### Technologies Used:
