@@ -56,8 +56,17 @@ To build a vibrant community of learners, educators, and industry professionals 
 ### Project Team:
 
 - Project Manager:Ameri Mohamed Ayoub
-- Cloud & Infra: Ameri Mohamed Ayoub 
-- Developers: All members.
+- DevOps Cloud & Infra:
+     - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)
+- BackEnd:
+    - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)
+    - [Hanaia youcef](https://github.com/poysa213)
+    - [Hanachi seif](https://github.com/HANNACHI-Seif)
+- FrontEnd:
+    - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)
+    - [Hanaia youcef](https://github.com/poysa213)
+    - [Fendi Mohamed](https://github.com/fendiMohamed)
+    - [Maroc Fouad](https://github.com/fouadhakim18)
 - Designers: Maroc Hakim
 - Documentation: Ameri Mohamed Ayoub.
 
