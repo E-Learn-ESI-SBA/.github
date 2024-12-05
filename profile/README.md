@@ -29,9 +29,9 @@ To build a vibrant community of learners, educators, and industry professionals 
 
 - Programming Languages: typescript, Python, Go
 
-- Frameworks and Libraries: Next.js, Node.js, Django, GIN
+- Frameworks and Libraries: Next.js, Node.js, Django, GIN(Go)
 
-- Database: MongoDB, PostgreSQL , Cassandra, ElasticSearch
+- Database: MongoDB, PostgreSQL , ElasticSearch
 
 - Infrastructure: Kubernetes, Docker
 
@@ -55,7 +55,8 @@ To build a vibrant community of learners, educators, and industry professionals 
 
 ### Project Team:
 
-- Project Manager:Ameri Mohamed Ayoub
+- Project Manager:
+    - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)      
 - DevOps Cloud & Infra:
      - [Ameri Mohamed Ayoub](https://github.com/MuhamedAyoub)
 - BackEnd:
